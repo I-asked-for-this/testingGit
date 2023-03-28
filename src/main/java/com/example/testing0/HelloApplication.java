@@ -16,6 +16,7 @@ public class HelloApplication extends Application {
         stage.setScene(scene);
         stage.show();
         System.out.printf("hello there");
+        System.out.printf("lyoum labes inshallah ne5dmou projet te3na");
     }
 
     public static void main(String[] args) {
